@@ -6,7 +6,7 @@ Bu kod tabanı, coğrafi geometrik alanların seçilmesini ve işaretlenmesini s
 
 ## 🚀 Key Features - Anahtar Özellikler
 - **Geo Information System / Coğrafi Bilgi Sistemi:** It uses real geometric measures suitable to real geo information systems and you can actually mark a specific area in a global map settings. 
-Proje, coğrafi bilgi sistemleriyle uyumlu gerçek geometrik metrikleri kullanmaktadır ve global coğrafi harita kurulumunda spesifik bölgeleri işaretleyebilmektedir.
+- Proje, coğrafi bilgi sistemleriyle uyumlu gerçek geometrik metrikleri kullanmaktadır ve global coğrafi harita kurulumunda spesifik bölgeleri işaretleyebilmektedir.
 
 ## 🛠️ Tech Stack & Architecture - Teknik Özellikler ve Mimari
 - **Geo Information Backend / Coğrafi Bilgi Sistemi tabanı:** Leaflet, MapBox (main.js)
