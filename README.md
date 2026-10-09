@@ -9,8 +9,8 @@ Bu kod tabanı, coğrafi geometrik alanların seçilmesini ve işaretlenmesini s
 Proje, coğrafi bilgi sistemleriyle uyumlu gerçek geometrik metrikleri kullanmaktadır ve global coğrafi harita kurulumunda spesifik bölgeleri işaretleyebilmektedir.
 
 ## 🛠️ Tech Stack & Architecture - Teknik Özellikler ve Mimari
-- **Geo Information Backend / Coğrafi Bilgi Sistemi tabanı:** JavaScript, Leaflet, MapBox (main.js)
-- **Main Skeleton Code / Ana Kod:** HTML/CSS
+- **Geo Information Backend / Coğrafi Bilgi Sistemi tabanı:** Leaflet, MapBox (main.js)
+- **Main Skeleton Code / Ana Kod:** HTML/CSS, JavaScript
 
 ## 💻 Installation & Setup - İndirme ve Kurulum
 - This project does not need additional backend setups, however there is leaflet and MapBox issues. (MapBox key is removed and because of that this project can not work as intended)
